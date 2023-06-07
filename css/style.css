@@ -10,7 +10,7 @@
 }
 body {
     background-color: rgb(226, 211, 144);
-    background-image: url(/Img/Back.png);
+    background-image: url(../Img/Back.png);
     background-size: cover;
     background-repeat: no-repeat; 
     background-position-x: center;
@@ -103,7 +103,7 @@ footer {
     justify-content: space-evenly;
     margin: 200px 0 0 0;
     padding: 350px 0 0 0;
-    background-image: url(/Img/footer.png);
+    background-image: url(../Img/footer.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
